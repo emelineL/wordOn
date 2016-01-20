@@ -1,0 +1,22 @@
+# Script Generated Files #
+##########################
+.sass-cache
+*.log
+.nodemonignore
+
+# OS generated files #
+######################
+
+.idea
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+css/screen.css
+client/.tmp/*
+*.sublime-project
+*.sublime-workspace
